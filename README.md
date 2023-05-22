@@ -32,3 +32,8 @@ Getting Started
 Demo of App
 ---------------
 ![add](gif/DessertClicker.gif)
+
+
+## Author
+
+- [Raban Kathariya](https://www.github.com/raban2)
