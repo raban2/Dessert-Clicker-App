@@ -29,6 +29,6 @@ Getting Started
 1. Download and run the app.
 
 
-
-### Demo of the App
+Demo of App
+---------------
 ![add](gif/DessertClicker.gif)
